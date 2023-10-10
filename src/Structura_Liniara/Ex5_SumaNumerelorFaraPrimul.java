@@ -1,6 +1,8 @@
+package Structura_Liniara;
+
 import java.util.Scanner;
 
-public class SumaNumerelorFaraPrimul {
+public class Ex5_SumaNumerelorFaraPrimul {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         System.out.println("Introduceti numarul din 4 cifre: ");

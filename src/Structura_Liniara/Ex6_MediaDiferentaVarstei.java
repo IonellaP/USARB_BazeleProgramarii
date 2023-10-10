@@ -1,6 +1,8 @@
+package Structura_Liniara;
+
 import java.util.Scanner;
 
-public class MediaDiferentaVarstei {
+public class Ex6_MediaDiferentaVarstei {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         System.out.println("Introduceti varsta 1: ");

@@ -1,6 +1,8 @@
+package Structura_Liniara;
+
 import java.util.Scanner;
 
-public class CalculareAni {
+public class Ex1_CalculareAni {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         System.out.println("Introduceti numarul de ani: ");

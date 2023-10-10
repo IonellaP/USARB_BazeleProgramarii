@@ -1,6 +1,8 @@
+package Structura_Liniara;
+
 import java.util.Scanner;
 
-public class ConsecutiveNumber {
+public class Ex3_ConsecutiveNumber {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         System.out.println("Ionica spune numarul: ");

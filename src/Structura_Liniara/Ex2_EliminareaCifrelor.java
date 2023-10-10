@@ -1,6 +1,8 @@
+package Structura_Liniara;
+
 import java.util.Scanner;
 
-public class EliminareaCifrelor {
+public class Ex2_EliminareaCifrelor {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         System.out.println("Introduceti numarul de 4 cifre: ");
