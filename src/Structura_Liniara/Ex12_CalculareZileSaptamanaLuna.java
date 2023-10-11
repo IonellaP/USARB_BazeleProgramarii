@@ -24,8 +24,5 @@ public class Ex12_CalculareZileSaptamanaLuna {
         int Secunde_Luna_Mai = Minute_Luna_Mai * 60;
         System.out.println("In luna mai sunt: " + " Ore " + Ore_Luna_Mai + " Minute " + Ore_Luna_Mai + " secunde " + Secunde_Luna_Mai);
 
-
-
-
     }
 }
