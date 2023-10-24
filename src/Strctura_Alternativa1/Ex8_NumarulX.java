@@ -2,7 +2,7 @@ package Strctura_Alternativa1;
 
 import java.util.Scanner;
 
-public class Ex9_NumarulX {
+public class Ex8_NumarulX {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         System.out.println("Introduceti numarul format din 3 cifre");
